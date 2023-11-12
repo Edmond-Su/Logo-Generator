@@ -15,4 +15,4 @@ Once you have downloaded all the files. you will need to run the command ```npm 
 Once you have finished the installation steps run  the command ```node index.js``` then follow the prompts that appear. 
 Once all 4 questions have been answered a logo.svg will be written to the output folder.
 
-Here is a walkthrough video: https://drive.google.com/file/d/1ZkkY8YFy8cQx544z2QrKNSzzZ-0si1-R/view?usp=drive_link
+Here is a walkthrough video: https://drive.google.com/file/d/1ZkkY8YFy8cQx544z2QrKNSzzZ-0si1-R/view?usp=sharing
